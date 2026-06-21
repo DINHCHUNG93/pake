@@ -1,3 +1,33 @@
+
+
+Công cụ không thể thiếu để biến bất kỳ website nào thành ứng dụng desktop riêng của bạn (55k+⭐ GitHub)
+
+Bạn muốn có ứng dụng ChatGPT, Gemini, DeepSeek, Claude, YouTube Music hay bất kỳ website nào dưới dạng app desktop riêng nhưng không muốn cài Electron nặng hàng trăm MB?
+
+Pake là một trong những dự án mã nguồn mở nổi tiếng nhất trên GitHub giúp đóng gói bất kỳ website nào thành ứng dụng desktop chỉ với một lệnh. Dự án hiện đạt gần 50.000 sao và được xây dựng bằng Rust + Tauri thay vì Electron nên cực kỳ nhẹ và tiết kiệm tài nguyên. (GitHub⁠￼)
+
+Điểm nổi bật:
+
+• Biến mọi website thành ứng dụng Windows, macOS và Linux.
+• Kích thước ứng dụng chỉ vài MB, nhỏ hơn Electron nhiều lần.
+• Tiêu thụ RAM thấp, khởi động nhanh.
+• Hỗ trợ shortcut, menu native và cửa sổ tùy chỉnh.
+• Hỗ trợ OAuth, Google Login, GitHub Login và nhiều luồng xác thực hiện đại.
+• Hỗ trợ đa cửa sổ, fullscreen, drag & drop.
+• Tự động lấy icon website khi đóng gói.
+• Có sẵn nhiều package cho ChatGPT, Gemini, DeepSeek, Grok, YouTube Music, Excalidraw… (GitHub⁠￼)
+
+Pake đặc biệt hữu ích cho:
+
+• Người dùng muốn biến các ứng dụng web thành app desktop riêng.
+• Doanh nghiệp cần đóng gói hệ thống nội bộ.
+• AI builders muốn tạo ứng dụng cho ChatGPT, Claude, Gemini hoặc MCP tools.
+• Startup cần phát hành desktop app nhanh mà không phải xây frontend native từ đầu.
+
+Nếu bạn thường xuyên sử dụng các dịch vụ web và muốn chúng hoạt động như ứng dụng thực thụ trên máy tính, Pake là một trong những công cụ đáng có nhất trong bộ công cụ của developer năm 2026. (GitHub⁠￼)
+
+
+
 <h4 align="right"><strong>English</strong> | <a href="README_CN.md">简体中文</a></h4>
 <p align="center">
     <img src=https://gw.alipayobjects.com/zos/k/fa/logo-modified.png width=138/>
